@@ -74,7 +74,7 @@ def download(username):
 def main():
 	parser = argparse.ArgumentParser(description = "A public SnapChat story downloader")
 	parser.add_argument('username', action="store", 
-		                help="Username of the user with a public story")
+		help="Username of the user with a public story")
 
 	args = parser.parse_args()
 
