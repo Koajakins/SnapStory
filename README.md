@@ -1,6 +1,8 @@
 # SnapStory
 > A public SnapChat story downloader
 
+[![demo](https://user-images.githubusercontent.com/27065646/43774662-2caac5ee-9a4a-11e8-8188-45532bc5ab0b.png)](https://www.youtube.com/watch?v=35RC6NvCo8U)
+
 ## Installation
 
 ```bash
