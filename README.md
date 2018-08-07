@@ -18,6 +18,9 @@ $ pip3 install -r requirements.txt
 usage: snapstory.py [-h] username
 ```
 
+For this to work, you need to find a user with a **public** story which has an emoji next to their username.
+The user **cant** be a company like *New York Times* or *BuzzFeed*. 
+
 ## Related
 [SnapCode](https://github.com/sdushantha/SnapCode) - A simple command-line tool to download SnapChat codes. 
 
