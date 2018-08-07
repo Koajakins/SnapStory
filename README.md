@@ -1,2 +1,2 @@
 # SnapStory
-A public SnapChat story downloader
+> A public SnapChat story downloader
