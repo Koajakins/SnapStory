@@ -14,7 +14,8 @@ def valid_username(username):
     it is a valid username
     """
 
-    url = api.format(username)
+    url = "https://story.snapchat.com/s/{}"
+    url = url.format(username)
     r = requests.get(url)
 
     if r.status_code == 200:
