@@ -69,7 +69,7 @@ def download(username):
 
         urllib.request.urlretrieve(file_url, path)
 
-        print("\033[92m[+] Downlaoded:\033[0m " + path.replace(dir_name, ""))
+        print("\033[92m[+] Downloaded:\033[0m " + path.replace(dir_name, ""))
 
 
 def main():
